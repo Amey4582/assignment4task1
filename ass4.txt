@@ -1,0 +1,82 @@
+Microsoft Windows [Version 10.0.19045.3803]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Legion>SYSTEM.INFO
+'SYSTEM.INFO' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Legion>systeminfo
+
+Host Name:                 DESKTOP-OOT43MQ
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Legion
+Registered Organization:
+Product ID:                00330-80000-00000-AA341
+Original Install Date:     17/04/2023, 3:30:52 am
+System Boot Time:          19/12/2023, 8:13:13 pm
+System Manufacturer:       LENOVO
+System Model:              81T0
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2592 Mhz
+BIOS Version:              LENOVO BHCN35WW, 23/11/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:00) Islamabad, Karachi
+Total Physical Memory:     16,303 MB
+Available Physical Memory: 8,959 MB
+Virtual Memory: Max Size:  18,735 MB
+Virtual Memory: Available: 6,712 MB
+Virtual Memory: In Use:    12,023 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-OOT43MQ
+Hotfix(s):                 18 Hotfix(s) Installed.
+                           [01]: KB5032005
+                           [02]: KB5027122
+                           [03]: KB5007401
+                           [04]: KB5011048
+                           [05]: KB5012170
+                           [06]: KB5015684
+                           [07]: KB5033372
+                           [08]: KB5014032
+                           [09]: KB5014671
+                           [10]: KB5015895
+                           [11]: KB5023794
+                           [12]: KB5025315
+                           [13]: KB5026879
+                           [14]: KB5028318
+                           [15]: KB5029709
+                           [16]: KB5031539
+                           [17]: KB5032392
+                           [18]: KB5032907
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.10
+                                 [02]: fe80::bab5:917a:af4e:1e4e
+                           [03]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [04]: TAP-Windows Adapter V9
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+C:\Users\Legion>
